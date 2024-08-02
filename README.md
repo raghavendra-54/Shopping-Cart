@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/2f81d9b2-4cc2-4066-bd82-ce8f7e0f7fa9
-
 Smart Shopping Cart Application
 Overview
 The Smart Shopping Cart application is a web-based shopping cart system designed to provide users with a seamless and interactive online shopping experience. 
